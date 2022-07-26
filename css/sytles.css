@@ -1,0 +1,156 @@
+body{
+   background-color: #fff;
+   font-size: 18px;
+}
+
+header{
+    position: absolute;
+}
+/* intro */
+#intro{
+    position: relative;
+    margin: auto 7%;
+    text-align: center;
+    margin-bottom:10%;
+}
+#intro p{
+    font-size: 18px;
+    width: 50%;
+    margin-left: 25%;
+}
+
+.logo{
+    margin:5%;
+    margin-bottom:2%;
+}
+.intro-btn-1{
+    border-radius: 25px;
+    margin: 10px;
+    background-color: #76BA99;
+}
+
+.intro-btn-2{
+    border-radius: 25px;
+    margin: 10px;
+    background-color: #6A67CE;
+}
+
+/* features-1 */
+
+#features-1{
+    width:50%;
+    margin:7% auto;
+    text-align: center;
+    font-size: 18px;
+}
+
+#features-1-1{
+    display: inline-flex;
+    margin-bottom: 7%;
+}
+
+.info{
+    margin:100px;
+    width: 25%;
+}
+
+.laptop-img{
+  position: relative;
+  margin-left: -20px;
+}
+
+.info p{
+    margin-bottom:50px;
+    line-height: 1.5;
+}
+
+/* features-2 */
+#features-2{
+  width: 50%;
+  margin: 0 auto 7%;
+  text-align: center;
+}
+
+.fp-2{
+  margin-top: 30px;
+}
+
+.devices-img{
+  width: 90%;
+  margin-top: 5%;
+}
+
+/* features-3 */
+.top-1{
+  width: 50%;
+  margin: 7% auto 0;
+  text-align: center;
+}
+
+.container-fluid{
+  padding: 0% 10%;
+}
+.featurebox-1{
+ padding: 5% 5%;
+ text-align: center;
+}
+
+.feature-logo{
+  margin: 30px;
+}
+
+.container-fluid-1{
+  padding:0% 10%;
+}
+
+.logobox-1{
+   padding: 9%;
+}
+
+/* clipboard */
+#clipboard{
+  width:50%;
+  margin:5% auto;
+  margin-bottom:10%;
+  text-align: center;
+}
+
+.clipboard-btn-1{
+  border-radius: 25px;
+  margin: 10px;
+  background-color: #76BA99;
+}
+
+.clipboard-btn-2{
+  border-radius: 25px;
+  margin: 10px;
+  background-color: #6A67CE;
+}
+
+/* footer */
+#footer{
+  background-color: #CFD2CF;
+  padding: 20px;
+}
+
+.footer-img{
+  width:17%;
+  margin: 30px 20%;
+}
+
+.footer-img-col{
+  text-align:center;
+}
+
+a{
+  text-decoration: none;
+  color:black;
+  display: inline-block;
+  width: 25%;
+  margin: 10px;
+}
+
+.footer-icons{
+  display: inline-block;
+  margin: 10px;
+}
